@@ -2,11 +2,11 @@
 
 Server MCP per calcoli medici pediatrici, score clinici e assessment.
 
-🎥 [Guarda il video dimostrativo](https://raw.githubusercontent.com/GianlucaMondillo/Pediatric_MCP_Server/main/assets/2025-07-06_22-03-30.mp4)
-
-
-
 ## 🚀 Installazione
+
+
+https://github.com/user-attachments/assets/280aa1d5-6ab5-461e-a9dd-ccbd3fd467be
+
 
 ```bash
 git clone https://github.com/tuousername/pediatric-mcp-server.git
