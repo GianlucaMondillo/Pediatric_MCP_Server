@@ -3,7 +3,7 @@
 Server MCP per calcoli medici pediatrici, score clinici e assessment.
 
 <video width="600" controls>
-  <source src="assets/2025-07-06 22-03-30.mkv" type="video/mkv">
+  <source src="assets/2025-07-06 22-03-30.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
