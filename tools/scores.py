@@ -15,7 +15,6 @@ from utils.medical_formulas import (
     calculate_westley_croup_score,
     calculate_centor_score_pediatric,
     calculate_wells_score_pediatric,
-    # Nuove funzioni importate
     calculate_pas_asthma_interpretation,
     calculate_pass_asthma_interpretation,
     calculate_bacterial_meningitis_score_interpretation,
