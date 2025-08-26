@@ -14,7 +14,6 @@ from utils.medical_formulas import (
     calculate_normal_bp_pediatric,
     calculate_predicted_height,
     calculate_burned_surface_area,
-    # Nuove funzioni importate
     calculate_pnfs,
     calculate_pnfs_interpretation,
     calculate_calcium_corrected,
